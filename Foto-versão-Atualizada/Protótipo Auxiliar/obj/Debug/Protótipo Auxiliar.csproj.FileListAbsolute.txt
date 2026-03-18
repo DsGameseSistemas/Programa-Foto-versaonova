@@ -1,0 +1,70 @@
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\Douglas\Desktop\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\Douglas\Desktop\TCC\Protótipo Auxiliar\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csprojAssemblyReference.cache
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\dougl\Downloads\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\dougl\Documents\DS GAMES\Desenvolvimento\Sistemas\Programa-Foto-main\Programa Foto C#\programaFoto-master\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.AssemblyReference.cache
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\Downloads\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.AssemblyReference.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Protótipo Auxiliar v2\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe.config
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\bin\Debug\Protótipo Auxiliar.pdb
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.AssemblyReference.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Form1.resources
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo_Auxiliar.Properties.Resources.resources
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.GenerateResource.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.exe
+C:\Users\nataf\OneDrive\Documentos\Protótipo Auxiliar v2\Foto-versão-Atualizada\Protótipo Auxiliar\obj\Debug\Protótipo Auxiliar.pdb
